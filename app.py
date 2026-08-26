@@ -1,4 +1,4 @@
 def login(username):
-    return f"Welcome {username}"
+    return f"Login Successful {username}"
 
 print(login("Student"))
